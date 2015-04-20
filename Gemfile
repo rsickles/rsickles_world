@@ -44,7 +44,7 @@ gem 'simple_form'
 # Use carrierwave to handle file uploads
 gem 'carrierwave'
 
-
+#cdfgaf
 # Additional gems that are very useful in Rails development
 group :development do
   gem 'quiet_assets'
